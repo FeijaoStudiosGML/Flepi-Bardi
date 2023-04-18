@@ -1,0 +1,1 @@
+audio_play_sound(snd_die, irandom_range(5, 15), false)

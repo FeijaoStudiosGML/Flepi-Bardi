@@ -1,0 +1,1 @@
+y = wave(ystart - 8, ystart + 8, 1, 0)

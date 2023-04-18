@@ -1,0 +1,1 @@
+global.player -= 1

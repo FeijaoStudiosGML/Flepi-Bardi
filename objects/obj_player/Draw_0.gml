@@ -1,0 +1,11 @@
+draw_sprite_ext(
+				 spr_heads,
+				 global.player,
+				 x,
+				 y,
+				 .2,
+				 .2,
+				 angle,
+				 image_blend,
+				 image_alpha
+				)
